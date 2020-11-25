@@ -1,0 +1,35 @@
+_repo: Mary-Boyle-Her-Book_63748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boyle, Mary Louisa
+    birthdate: 1810
+    deathdate: 1890
+    gutenberg_agent_id: '52325'
+    url: http://www.gutenberg.org/2009/agents/52325
+  editors:
+  - agent_name: Boyle, Muriel S.
+    gutenberg_agent_id: '52583'
+    url: http://www.gutenberg.org/2009/agents/52583
+  - agent_name: Boyle, Courtenay, Sir
+    alias: Boyle, Courtenay Edmund
+    birthdate: 1845
+    deathdate: 1901
+    gutenberg_agent_id: '52582'
+    url: http://www.gutenberg.org/2009/agents/52582
+    wikipedia: https://en.wikipedia.org/wiki/Courtenay_Boyle_(civil_servant)
+description: ''
+gutenberg_issued: '2020-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Boyle, Mary Louisa, 1810-1890'
+- GITenberg
+title: Mary Boyle, Her Book
+url: http://www.gutenberg.org/ebooks/63748
